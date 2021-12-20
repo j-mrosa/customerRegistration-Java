@@ -6,8 +6,8 @@ package db;
 public class ConnectionParameters {
     
     public static final String URL = "jdbc:derby://localhost:1527/customerDB";
-    public static final String USERNAME = "app";
-    public static final String PASSWORD = "app";
+    public static final String USERNAME = "dumb";
+    public static final String PASSWORD = "dumb";
     
     // no instantiation allowed
     private ConnectionParameters() {}
